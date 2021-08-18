@@ -6,3 +6,18 @@
   margin-top: 40px;
   margin-bottom: 40px;
 }
+
+.book {
+  padding: 20px 50px;
+  border: solid 1px #292b2c;
+  background-color: #f9f9f9;
+  line-height: 30px;
+  border-radius: 5px;
+  margin: 5px;
+  max-width: 48%;
+
+}
+
+img {
+  margin-top:20px;
+}
